@@ -1,3 +1,5 @@
+// Welcome to my project
+
 <?php
 include ("DB/conn.php");
 ?>
